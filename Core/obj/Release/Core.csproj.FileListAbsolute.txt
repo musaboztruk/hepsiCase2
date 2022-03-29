@@ -1,0 +1,5 @@
+C:\Users\arvesoft\OneDrive\Masaüstü\HepsiCase\project\Core\bin\Release\Core.dll
+C:\Users\arvesoft\OneDrive\Masaüstü\HepsiCase\project\Core\bin\Release\Core.pdb
+C:\Users\arvesoft\OneDrive\Masaüstü\HepsiCase\project\Core\obj\Release\Core.csproj.CoreCompileInputs.cache
+C:\Users\arvesoft\OneDrive\Masaüstü\HepsiCase\project\Core\obj\Release\Core.dll
+C:\Users\arvesoft\OneDrive\Masaüstü\HepsiCase\project\Core\obj\Release\Core.pdb
